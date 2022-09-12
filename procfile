@@ -1,0 +1,1 @@
+web: vender/bin/hetoku-php-apache2 public/
